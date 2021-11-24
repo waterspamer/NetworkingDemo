@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\maxim.sviridov\AppData\Local\JetBrains\Rider2020.2\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\maxim.sviridov\AppData\Local\JetBrains\Rider2020.2\resharper-host\Local\Transient\Rider\v202\SolutionCaches\_MocapNetworkingDemo.-321569581.00" t="ExcludeRecursive" />
+    <e p="D:\Demo\MocapNetworkingDemo" t="IncludeRecursive">
+      <e p="Assembly-CSharp-Editor.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Networking" t="Include">
+          <e p="Client" t="Include">
+            <e p="DataSender.cs" t="Include" />
+            <e p="NetworkDataConfigurator.cs" t="Include" />
+          </e>
+          <e p="Editor" t="Include">
+            <e p="NetworkDataConfiguratorEditor.cs" t="Include" />
+          </e>
+          <e p="Example.cs" t="Include" />
+          <e p="JsonUtils" t="Include">
+            <e p="JsonDataWrapper.cs" t="Include" />
+            <e p="SerializableData.cs" t="Include" />
+          </e>
+          <e p="NetworkTest" t="Include">
+            <e p="MessageReceiver.cs" t="Include" />
+            <e p="MessageSender.cs" t="Include" />
+          </e>
+          <e p="Server" t="Include">
+            <e p="DataReceiver.cs" t="Include" />
+          </e>
+        </e>
+        <e p="ReflectiveTest.cs" t="Include" />
+      </e>
+      <e p="MocapNetworkingDemo.sln" t="IncludeFlat" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Temp\Bin" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
